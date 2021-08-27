@@ -1,0 +1,10 @@
+C:\Users\Gustavo\source\repos\calculo_media-escolar\calculo_media-escolar\obj\Debug\media-escolar.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\calculo_media-escolar\calculo_media-escolar\obj\Debug\calculo_media_escolar.Form4.resources
+C:\Users\Gustavo\source\repos\calculo_media-escolar\calculo_media-escolar\obj\Debug\calculo_media_escolar.Properties.Resources.resources
+C:\Users\Gustavo\source\repos\calculo_media-escolar\calculo_media-escolar\obj\Debug\media-escolar.csproj.GenerateResource.cache
+C:\Users\Gustavo\source\repos\calculo_media-escolar\calculo_media-escolar\obj\Debug\media-escolar.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\calculo_media-escolar\calculo_media-escolar\bin\Debug\calculo_media-escolar.exe.config
+C:\Users\Gustavo\source\repos\calculo_media-escolar\calculo_media-escolar\bin\Debug\calculo_media-escolar.exe
+C:\Users\Gustavo\source\repos\calculo_media-escolar\calculo_media-escolar\bin\Debug\calculo_media-escolar.pdb
+C:\Users\Gustavo\source\repos\calculo_media-escolar\calculo_media-escolar\obj\Debug\calculo_media-escolar.exe
+C:\Users\Gustavo\source\repos\calculo_media-escolar\calculo_media-escolar\obj\Debug\calculo_media-escolar.pdb
